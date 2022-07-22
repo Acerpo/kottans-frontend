@@ -2,20 +2,35 @@
 
 # git-intro
 
-### Я вже проходив курс Git HOW, та корисно було відновити у памяті багато моментів.
+1. Я вже проходив курс Git та використовував його на практиці, корисно було відновити у памяті багато моментів. 
+2. В цьому розділі нічого не здивувало. 
+3. Гадаю я все буду використовувати!
 
 ![Img](./screenshots/git_basics/Introduction%20Sequence.PNG)
-![Img](./screenshots/git_basics/Push & Pull.PNG)
+![Img1](./screenshots/git_basics/Push_Pull.PNG)
 ---
 ## Linux CLI, and HTTP
 
+1. Хоча мені й доводілосья працювати з Linux, та було новим все з розділу безпеки 
+2. Не можу відповісти
+3. Якщо в мене буде необхідність використовувати Linux, то командами з 1 та 2 модулю я буду користуватися часто. 
+
+![Screenshot](./screenshots/task_linux_cli/1.png)
+![Screenshot](./screenshots/task_linux_cli/2.png)
+![Screenshot](./screenshots/task_linux_cli/3.png)
+![Screenshot](./screenshots/task_linux_cli/4.png)
 
 ---
 ## Git Collaboration
-
+1.
+2.
+3.
 
 ---
 ## Intro to HTML and CSS
+1. В цьому розділі все було для мене знайоме, я вже займався вивченням HTML/CSS
+2.
+3. Більшість з вивченного я буду вікористовуваті в майбутньому.
 
 ![Screenshot](./screenshots/task_html_css_intro/html_css.png)
 ---
