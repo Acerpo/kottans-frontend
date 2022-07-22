@@ -22,9 +22,13 @@
 
 ---
 ## Git Collaboration
-1.
+1. Майже все з цих розділів було для мене новим (читав, та майже нічого не використовував на практиці)
 2.
-3.
+3. Ще не знаю, але гадаю що так 
+
+![Screenshot](./screenshots/task_git_collaboration/1.png)
+![Screenshot](./screenshots/task_git_collaboration/2.png)
+
 
 ---
 ## Intro to HTML and CSS
