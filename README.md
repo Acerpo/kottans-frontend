@@ -39,7 +39,7 @@
 ![Screenshot](./screenshots/task_html_css_intro/html_css.png)
 ---
  
-## Responsive Web Designпше
+## Responsive Web Designe
 
 1. Дуже сподобався цей розділ. flexbox - для мене нова технологія, та дуже цікава. З Grid вже був знайомий, та багато чого вже забув.
 2. Наскільки швидко та просто можливо верстати з Flex
