@@ -38,3 +38,13 @@
 
 ![Screenshot](./screenshots/task_html_css_intro/html_css.png)
 ---
+ 
+## Responsive Web Designпше
+
+1. Дуже сподобався цей розділ. flexbox - для мене нова технологія, та дуже цікава. З Grid вже був знайомий, та багато чого вже забув.
+2. Наскільки швидко та просто можливо верстати з Flex
+3. Однозначно буду використовувати flexbox! Зараз пробую зверстати декілька шаблонів 
+
+![Screenshot](./screenshots/task_responsive_web_design/1.png)
+![Screenshot](./screenshots/task_responsive_web_design/2.png)
+---
