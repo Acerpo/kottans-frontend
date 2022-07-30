@@ -1,6 +1,10 @@
-# kottans-frontend
+# **kottans-frontend**
 
-<details><summary># git-intro</summary>
+---
+
+# git-intro
+
+<details>><summary>CLICK ME</summary>
 <p>
 
 
@@ -13,8 +17,13 @@
 
 </p>
 </details>
+
 ---
-## Linux CLI, and HTTP
+
+# Linux CLI, and HTTP
+
+<details>><summary>CLICK ME</summary>
+<p>
 
 1. Хоча мені й доводілосья працювати з Linux, та було новим все з розділу безпеки 
 2. Не можу відповісти
@@ -25,8 +34,16 @@
 ![Screenshot](./screenshots/task_linux_cli/3.png)
 ![Screenshot](./screenshots/task_linux_cli/4.png)
 
+</p>
+</details>
+
 ---
-## Git Collaboration
+
+# Git Collaboration
+
+<details>><summary>CLICK ME</summary>
+<p>
+ 
 1. Майже все з цих розділів було для мене новим (читав, та майже нічого не використовував на практиці)
 2.
 3. Ще не знаю, але гадаю що так 
@@ -34,17 +51,32 @@
 ![Screenshot](./screenshots/task_git_collaboration/1.png)
 ![Screenshot](./screenshots/task_git_collaboration/2.png)
 
+</p>
+</details>
 
 ---
-## Intro to HTML and CSS
+
+# Intro to HTML and CSS
+ 
+<details>><summary>CLICK ME</summary>
+
+<p>
+ 
 1. В цьому розділі все було для мене знайоме, я вже займався вивченням HTML/CSS
 2.
 3. Більшість з вивченного я буду вікористовуваті в майбутньому.
 
 ![Screenshot](./screenshots/task_html_css_intro/html_css.png)
+
+</p>
+</details>
+
 ---
- 
-## Responsive Web Designe
+
+# Responsive Web Designe
+
+<details><summary>CLICK ME</summary>
+<p>
 
 1. Дуже сподобався цей розділ. flexbox - для мене нова технологія, та дуже цікава. З Grid вже був знайомий, та багато чого вже забув.
 2. Наскільки швидко та просто можливо верстати з Flex
@@ -52,12 +84,24 @@
 
 ![Screenshot](./screenshots/task_responsive_web_design/1.png)
 ![Screenshot](./screenshots/task_responsive_web_design/2.png)
+
+</p>
+</details>
+
 ---
 
-## HTML і CSS практика: Hooli-style Popup
+# HTML і CSS практика: Hooli-style Popup
+
+<details><summary>CLICK ME</summary>
+<p>
 
 [Demo](https://acerpo.github.io/HTML-CSS-Popup/)
 
 1. Много времени ушло, чтобы разобраться почему не работает то, что я делал по примерам в которых все работало 😅. Мне понравилось задание, а в особенности результат )
 2. Удивило количество вариантов как можно было выполнить это задание, но то что правильный только один из них.
 3. Точно буду использовать навыки которые получил в ходе этой практики в работе. Или хотя бы в ближайших проектах.
+
+</p>
+</details>
+
+---
