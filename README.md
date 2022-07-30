@@ -1,6 +1,8 @@
 # kottans-frontend
 
-# git-intro
+<details><summary># git-intro</summary>
+<p>
+
 
 1. Я вже проходив курс Git та використовував його на практиці, корисно було відновити у памяті багато моментів. 
 2. В цьому розділі нічого не здивувало. 
@@ -8,6 +10,9 @@
 
 ![Img](./screenshots/git_basics/Introduction%20Sequence.PNG)
 ![Img1](./screenshots/git_basics/Push_Pull.PNG)
+
+</p>
+</details>
 ---
 ## Linux CLI, and HTTP
 
