@@ -2,7 +2,7 @@
 
 ---
 
-# git-intro
+## git-intro
 
 <details>><summary>CLICK ME</summary>
 <p>
@@ -20,7 +20,7 @@
 
 ---
 
-# Linux CLI, and HTTP
+## Linux CLI, and HTTP
 
 <details>><summary>CLICK ME</summary>
 <p>
@@ -39,7 +39,7 @@
 
 ---
 
-# Git Collaboration
+## Git Collaboration
 
 <details>><summary>CLICK ME</summary>
 <p>
@@ -56,7 +56,7 @@
 
 ---
 
-# Intro to HTML and CSS
+## Intro to HTML and CSS
  
 <details>><summary>CLICK ME</summary>
 
@@ -73,7 +73,7 @@
 
 ---
 
-# Responsive Web Designe
+## Responsive Web Designe
 
 <details><summary>CLICK ME</summary>
 <p>
@@ -90,7 +90,7 @@
 
 ---
 
-# HTML і CSS практика: Hooli-style Popup
+## HTML і CSS практика: Hooli-style Popup
 
 <details><summary>CLICK ME</summary>
 <p>
@@ -105,3 +105,11 @@
 </details>
 
 ---
+
+## JS Basics
+
+<details><summary>CLICK ME</summary>
+<p>
+
+1. 
+![Screenshot](./screenshots/task_js_basics/1.png)
